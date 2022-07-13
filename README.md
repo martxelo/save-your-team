@@ -1,6 +1,6 @@
 # Save your team
 
-This notebook calculates the minimum points your team need to get for maintaining the category. In spanish football league it is said that 41 points is enough, but I wanted to know if thats true.
+This notebook calculates the minimum points your team need to get for maintaining the category. In spanish football league it is said that 41 points is enough, but I wanted to know if that is true.
 
 ## The league
 
