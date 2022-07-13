@@ -11,7 +11,7 @@ Twenty teams face each other during the season. Each team plays 38 matches and g
 There are many different possible results for the whole season. Ten matches per week, thirty eight weeks and three results (the first team wins, the second wins or they tie). So the number of different seasons is:
 
 $$
-seasons = 3^{10*38} = 3^{380} \approx 2.02*10^{181}
+seasons = 3^{10\times38} = 3^{380} \approx 2.02\times10^{181}
 $$
 
 So many... but we can reduce the number. A huge number of seasons are equivalent for our purpose. For example, the first team can have 80 points and the second 77. But one change and the result is 78-78. For the team that is going to a lower division those results are the same.
